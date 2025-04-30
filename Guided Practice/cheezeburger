@@ -1,0 +1,31 @@
+// const dineer = {
+//     cheeseburger: 12,
+//     steak:20,
+//     soup:8,
+//     mac:14,
+//     souandsalad: 16
+// }
+
+// for (const key in dinner){
+//     console.log(dinner[key])
+// }
+// console.log(Object.values(dineer))
+
+// const total=0   
+// for (const key in dinner){
+//     total= total +dinner[key]
+// console.log(total, dinner[key])
+// }
+// console.log(total)
+
+// let total=0
+// for (const key in dinner){
+//     total+=dinner[key]
+// }
+// console.log(total)
+
+// let forLoopTotal=0
+// const arrtoLoop = Object.values(dinner)
+// console.log(arrtoLoop)
+// for (let i=0; i<arrtoLoop.length; i++){
+//     forLoopTotal = forLoopTotal +arrtoLoop[i]
